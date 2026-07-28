@@ -3,6 +3,17 @@
   "description": "顕著な地震の震源要素更新のお知らせ（VXSE61）記録ファイル",
   "events": [
     {
+      "arrivalTime": "2026/07/28 16:27",
+      "reportDateTime": "2026/07/28 20:30",
+      "hypocenter": {
+        "name": "熊本県熊本地方",
+        "latitude": 32.6,
+        "longitude": 130.7,
+        "depth": 20,
+        "magnitude": 7.1
+      }
+    },
+    {
       "arrivalTime": "2026/06/28 05:21",
       "reportDateTime": "2026/06/28 07:25",
       "hypocenter": {
